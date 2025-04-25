@@ -36,5 +36,3 @@ for game_n in range(10):
     elif comp_score == 3:
         print("Игра завершена. Выиграл компьютер")
         break
-if player_score == comp_score:
-    print("Игра завершена. Ничья")
